@@ -8,4 +8,3 @@ class SumSolution:
             return -1
         return x+y
 
-
